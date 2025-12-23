@@ -1,6 +1,6 @@
 # video-hub
 
-## vidio-hosting - это штука как ютуб только на минималка
+## vidio-hosting - это штука как ютуб только на минималка (Даже админка есть)
 
 ### Установка зависимостей:
 ```bash
@@ -27,7 +27,9 @@ cd ./server
 npm run dev
 ```
 
-### ЕСТЬ ВОЗМОЖНОСТЬ РЕДАКТИРОВАТЬ БД ЧЕРЕЗ УДОБНЫЙ ВЕБ ИНТЕРФЕЙС
+### ЕСТЬ ВОЗМОЖНОСТЬ РЕДАКТИРОВАТЬ БД ЧЕРЕЗ УДОБНЫЙ ВЕБ ИНТЕРФЕЙС 
+![SoExcited~GIF](https://github.com/user-attachments/assets/785ce271-442f-471c-abff-5050a5d8523a)
+
 ```bash
 cd ./server
 npm run prisma:studio
